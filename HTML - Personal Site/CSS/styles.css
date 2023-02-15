@@ -55,3 +55,27 @@ li {
   margin: 50px auto 50px auto;
 }
 
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.ux-icon {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.ia-icon {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.proto-icon {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
